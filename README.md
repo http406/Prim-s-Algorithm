@@ -180,9 +180,8 @@ Given a connected, weighted, and undirected graph \( G(V, E) \), where:
 The MST is a subset of edges \( T \subseteq E \) that:
 1. **Connects all the vertices** (spanning tree).
 2. **Has the minimum total weight**:
-   \[
-   \text{Total Weight} = \sum_{e \in T} w(e)
-   \]
+
+   ![Image](https://github.com/user-attachments/assets/23b1d9ed-ccfb-4c73-b2cd-6365a79305a5)
 
 3. **Contains no cycles** (tree property).
 
