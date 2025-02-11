@@ -170,7 +170,7 @@ The code visualizes **Prim's Algorithm**, one of the ways to compute the MST. He
 
 ---
 
-### **What is a Minimum Spanning Tree (MST)?**
+### **MST in details**
 
 #### **Formal Definition**:
 Given a connected, weighted, and undirected graph \( G(V, E) \), where:
