@@ -229,7 +229,7 @@ Prim’s algorithm is a **greedy algorithm** to compute the MST. It starts with 
      - **Overall Complexity**: \( O(n²) \).
 
 2. **Optimized Implementation**:
-   - Using **priority queues** (like a min-heap), we can reduce the complexity to \ O(E log V \), where \( E \) is the number of edges.
+   - Using **priority queues** (like a min-heap), we can reduce the complexity to O(E log V), where \( E \) is the number of edges.
 
 
 ### **Visualization in the Code**
