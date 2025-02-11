@@ -1,4 +1,4 @@
-# Prim-s-Algorithm
+# Prim's Algorithm
 
 A detailed breakdown of the code, what I do! 
 
